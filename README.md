@@ -1,4 +1,4 @@
-# GymSense - AI-Powered Smart Gym Companion
+# GymAura - AI-Powered Smart Gym Companion
 
 A premium Flutter application for Android that provides personalized gym workouts, AI equipment detection, progress tracking, and an e-commerce store.
 
